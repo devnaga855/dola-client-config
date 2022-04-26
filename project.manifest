@@ -1,0 +1,10 @@
+{
+    "packageUrl": "http://loc52.fun/m/",
+    "searchPaths": [],
+    "assets": {
+    },
+    "remoteVersionUrl": "http://loc52.fun/m/version.manifest",
+    "version": "1.0.1",
+    "engineVersion": "3.16",
+    "remoteManifestUrl": "http://loc52.fun/m/project.manifest"
+}
